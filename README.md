@@ -1,10 +1,10 @@
 ### Hi there 🤗
 
-My name is Athena Fernandes Sarantôpoulos from Brazil (🇧🇷). I've been learning programming since I joined the IT Technicians in 2014.I am currently studying Computer Science at the Federal University of Viçosa Campus Florestal.
+My name is Athena Fernandes Sarantôpoulos from Brazil (🇧🇷). I've been learning programming since I joined the IT Technicians in 2014.I am currently studying Computer Science at the Federal University of Viçosa Campus Florestal. I currently work at CI&T as a Mobile Native developer
 
 I like front end and software engineering. 💛
 
-In my free time I like to watch movies (🎞️) and series (📺), to listen to music (🎵), take care of plants(🌻) and play with my 7 cats and 1 guinea pig. :cat2: :cat: 🐹. 
+In my free time I like to watch movies (🎞️) and series (📺), to listen to music (🎵), take care of plants(🌻) and play with my 7 cats. :cat2: :cat: . 
 
 Would you like to find me?
 
