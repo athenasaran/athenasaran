@@ -1,6 +1,6 @@
 ### Hi there 🤗
 
-My name is Athena Fernandes Sarantôpoulos from Brazil (🇧🇷). I've been learning programming since I joined the IT Technicians in 2014.I am currently studying Computer Science at the Federal University of Viçosa Campus Florestal. I currently work at CI&T as a Mobile Native developer
+My name is Athena Fernandes Sarantôpoulos from Brazil (🇧🇷). I've been learning programming since I joined the IT Technicians in 2014.I am currently studying Computer Science at the Federal University of Viçosa Campus Florestal. I currently work at CI&T as a Mobile Native developer, Android Kotlin
 
 I like front end and software engineering. 💛
 
