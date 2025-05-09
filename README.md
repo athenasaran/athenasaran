@@ -1,11 +1,10 @@
 ### Hi there 🤗
 
-My name is Athena Fernandes Sarantôpoulos from Brazil (🇧🇷). I've been learning programming since I joined the IT Technicians in 2014.I am currently studying Computer Science at the Federal University of Viçosa Campus Florestal. I currently work at ifood as a Mobile Native developer, Android Kotlin
+My name is Athena Fernandes Sarantôpoulos from Brazil (🇧🇷). I've been learning programming since I joined the IT Technicians in 2014. I graduated in Computer Science from the Federal University of Viçosa Campus Florestal. I currently work at iFood as a Mobile Native developer, Android Kotlin.
 
-In my free time I like to watch movies (🎞️) and series (📺), to listen to music (🎵), take care of plants(🌻) and play with my 6 cats. :cat2: :cat: . 
+In my free time, I like to watch movies (🎞️) and series (📺), listen to music (🎵), take care of plants (🌻) and play with my 6 cats :cat2: :cat:.
 
-Would you like to find me?
-
+Would you like to connect with me?
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/athenasaran/)](https://twitter.com/athenasaran/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/athena-fernandes-sarant%C3%B4poulos/)](https://www.linkedin.com/in/athena-fernandes-sarant%C3%B4poulos/)
